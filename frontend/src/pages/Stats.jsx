@@ -1,5 +1,3 @@
-function Stats() {
-    return <h1 className="text-2x1 font-bold">Statistics Dashboard</h1>;
+export default function Stats() {
+  return <h1 className="text-2xl font-bold p-6">Stats Page</h1>;
 }
-
-export default Stats;

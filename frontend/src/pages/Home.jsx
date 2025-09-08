@@ -1,5 +1,3 @@
-function Home() {
-    return <h1 className="text-2x1 font-bold">Welcome to F1 Stats</h1>;
+export default function Home() {
+  return <h1 className="text-2xl font-bold p-6">🏎️ Welcome to F1 Stats!</h1>;
 }
-
-export default Home;
